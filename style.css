@@ -1,0 +1,89 @@
+.bgimg{
+    background-image: url('2.jpg');
+    background-size: 100% 100%; /*complete image*/
+    background-attachment: fixed;/*parallax effect, image fixed*/
+    width: 100%;
+    height: 660px;
+}
+.headerset{
+    padding-top: 250px;
+    box-sizing: border-box;
+    
+}
+.headerset h2{
+    font-size: 42px;
+}
+.headerset h1{
+    font-size: 72px;
+    font-weight: bold;
+}
+/*-----------------------our services----------------------*/
+.ourservices{
+    padding:40px 0px 60px;
+    height: 500px;
+
+    
+}
+.ourservices h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.rowsetting{
+    margin: 100px;
+    
+    
+}
+.rowsetting h1{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 15px;
+}
+.rowsetting p{
+    font-size: 15px;
+    text-align: center;
+    margin-top: 15px;
+    color: gray !important;
+}
+.imgsetting{
+    text-align: center;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    background-color: pink;
+    
+    border: 2px solid salmon;
+}
+.fa-shopping-cart{
+    color: purple;
+    padding-top: 25px;
+}
+.fa-lock{
+    color: purple;
+    padding-top: 25px;
+}
+.fa-desktop{
+    color: purple;
+    padding-top: 25px;
+}
+.ourservices{
+    
+    
+}
+.gallery{
+   
+    margin:  0px 103px;
+}
+.gallery h1{
+    padding-top: 30px ;
+}
+.mycard{
+    padding: 30px;
+}
+.navbar{
+    background-color: palevioletred;
+}
+.navbar-brand{
+    color: rgb(247, 240, 247);
+    font-weight: bolder;
+}
